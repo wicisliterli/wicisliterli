@@ -1,5 +1,5 @@
 ## Hey ðŸ‘‹, This is Fadh
-[![Gmail Badge](https://img.shields.io/badge/-ralfhg454@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ralfhg454@gmail.com)](mailto:ralfhg454@gmail.com) [![Github Badge](https://img.shields.io/badge/-wicisliterli-grey?style=flat&logo=github&logoColor=white&link=https://github.com/wicisliterli/)](https://www.github.com/wicisliterli/) <p align='left'>Orang sok pro kodir</p>
+[![Gmail Badge](https://img.shields.io/badge/-ralfhg454@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ralfhg454@gmail.com)](mailto:ralfhg454@gmail.com) [![Github Badge](https://img.shields.io/badge/-wicisliterli-grey?style=flat&logo=github&logoColor=white&link=https://github.com/wicisliterli/)](https://www.github.com/wicisliterli/) <p align='left'>Halooo🙌🏽🙌🏽</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=wicisliterli alt=wicisliterli /> </p>
 
